@@ -1,0 +1,8 @@
+MODE_TYPE=ssdlite_mobilenet_v3_small_320x320_coco
+DATA_SET=72jie
+python ../../legacy/train.py \
+    --logtostderr \
+    --sample_1_of_n_eval_examples=1 \
+    --pipeline_config_path=/home/yzh/mypro/models/research/object_detection/0424_bridge/result/ssdlite_mobilenet_v3_small_320x320_coco.config \
+    --train_dir=/media/yzh/program/trainingWeights/training/72jie/trainingWeights/training/ssdlite_mobilenet_v3_small_320x320_coco/train_logs/
+

@@ -1,0 +1,6 @@
+- [Expert-Python-Programming-Third-Edition](https://github.com/PacktPublishing/Expert-Python-Programming-Third-Edition)
+- [python-patterns](https://github.com/faif/python-patterns)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+- [Python Patterns](https://python-patterns.guide/) and [source code](https://bitbucket.org/dhellmann/pymotw-3/src/master/) and [vedio](https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s) and [web demo tutoiral](https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features)
+- [Example code](https://github.com/fluentpython/example-code) for the book Fluent Python http://bit.ly/fluentpy
+- [python pattern website](https://sourcemaking.com/design_patterns/abstract_factory/cpp/2) and [paper blog reference](https://en.delphipraxis.net/topic/948-deep-dive-into-design-patterns/)
