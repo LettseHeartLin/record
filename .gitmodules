@@ -4,3 +4,6 @@
 [submodule "reading/book/datastructure/Data_Structure_And_Algorithms"]
 	path = reading/book/datastructure/Data_Structure_And_Algorithms
 	url = https://github.com/shenmayufei/Data_Structure_And_Algorithms
+[submodule "work/workdoc"]
+	path = work/workdoc
+	url = https://github.com/shenmayufei/tensorflow_tutorial
